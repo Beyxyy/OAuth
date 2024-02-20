@@ -1,0 +1,7 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.10",
+        "altorouter/altorouter": "1.1.0"
+
+    }
+}
